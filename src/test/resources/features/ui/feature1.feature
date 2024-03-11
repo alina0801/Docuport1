@@ -1,8 +1,9 @@
+
 Feature: Docuport Login Logout Feature
 
   Background:
     Given user is on Docuport login page
-
+  @test
   Scenario Outline: Login and out
     When user enters username for "<userType>"
     And user enters password for "<userType>"
