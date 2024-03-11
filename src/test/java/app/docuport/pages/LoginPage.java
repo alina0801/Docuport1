@@ -1,7 +1,6 @@
-package app.docuport.pages.docuport_pages;
+package app.docuport.pages;
 
-
-import app.docuport.step_definitions.docuport_stepdefs.ClientStepDefs;
+import app.docuport.step_definitions.ClientStepDefs;
 import app.docuport.utilities.BrowserUtilities;
 import app.docuport.utilities.ConfigurationReader;
 import app.docuport.utilities.DocuportConstants;

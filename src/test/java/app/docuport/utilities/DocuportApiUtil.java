@@ -4,9 +4,6 @@ import io.restassured.http.ContentType;
 import org.apache.http.HttpStatus;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.emptyOrNullString;
-import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertTrue;
 
 public class DocuportApiUtil {
