@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                 "rerun:target/rerun.txt"},
         features = "src/test/resources/features/",
         glue = "app/docuport/step_definitions",
-        tags = "",
+        tags = "@test",
         dryRun = false // -> true to get code snippets
 )
 public class Runner {
