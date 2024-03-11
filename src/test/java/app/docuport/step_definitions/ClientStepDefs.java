@@ -1,9 +1,8 @@
-package app.docuport.step_definitions.docuport_stepdefs;
+package app.docuport.step_definitions;
 
-import app.docuport.pages.docuport_pages.ClientPage;
+import app.docuport.pages.ClientPage;
 import app.docuport.utilities.BrowserUtilities;
 import com.github.javafaker.Faker;
-
 import io.cucumber.java.en.When;
 
 import java.util.List;

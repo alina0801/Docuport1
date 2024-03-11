@@ -1,4 +1,4 @@
-package app.docuport.pages.docuport_pages;
+package app.docuport.pages;
 
 
 import app.docuport.utilities.BrowserUtilities;
